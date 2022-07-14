@@ -2,7 +2,7 @@
 
 📌 <strong>Sobre o projeto: </strong>
 
-Desenvolvimento de um projeto (usando dicionários) com o objetivo de gravar a quantidade de currículos para cada vaga e quantas pessoas possuem pelo menos um das palavras chaves necessárias no currículo. Para isso, o código Python vai checar quantos candidatos estão se inscrevendo, para qual vaga estão se inscrevendo, nome de cada candidato e o resumo do currículo que a pessoa está enviando.
+Desenvolvimento de um projeto (usando dicionários) com o objetivo de gravar a quantidade de currículos para duas vagas: Analista de dados e Cientista de dados. Visando verifcar quantas pessoas possuem pelo menos um das palavras chaves necessárias no currículo que estejam dentro de um dos requisitos para as vagas. Para isso, o código Python vai checar quantos candidatos estão se inscrevendo, para qual vaga estão se inscrevendo, nome de cada candidato e o resumo do currículo que a pessoa está enviando.
 
 ### 🚀 <strong>Tecnologias</strong>
 
