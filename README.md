@@ -2,7 +2,7 @@
 
 📌 <strong>Sobre o projeto: </strong>
 
-Desenvolvimento de um projeto (usando dicionários) com o objetivo de gravar a quantidade de currículos para duas vagas: Analista de dados e Cientista de dados. Visando verifcar quantas pessoas possuem pelo menos uma das palavras chaves no currículo, palavras chaves que são requisitos para vaga.  Para isso, o código Python vai checar quantos candidatos estão se inscrevendo, para qual vaga estão se inscrevendo, nome de cada candidato e o resumo do currículo que a pessoa está enviando.
+Desenvolvimento de um projeto (usando dicionários) com o objetivo de gravar a quantidade de currículos para duas vagas: Analista de dados e Cientista de dados. Visando verificar quantas pessoas possuem pelo menos uma das palavras chaves no currículo, palavras chaves que são requisitos para vaga.  Para isso, o código Python vai checar quantos candidatos estão se inscrevendo, para qual vaga estão se inscrevendo, nome de cada candidato e o resumo do currículo que a pessoa está enviando.
 
 ### 🚀 <strong>Tecnologias</strong>
 
@@ -30,4 +30,4 @@ Fique à vontade para testá-lo! Adoraria receber o seu feedback!
 
 1º Inicie o arquivo '#TODO4' com uma IDE de sua preferência; <br/>
 2º Execute o arquivo, para isso procure pelo comando 'run python file' ou similar; <br/>
-3º A partir do terminal, interaja com a calculadora para verificar amostragem que deseja.
+3º A partir do terminal, interaja com o programa contratado.
