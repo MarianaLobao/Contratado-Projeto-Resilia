@@ -2,7 +2,7 @@
 
 📌 <strong>Sobre o projeto: </strong>
 
-Desenvolvimento de um projeto (usando dicionários) com o objetivo de gravar a quantidade de currículos para duas vagas: Analista de dados e Cientista de dados. Visando verifcar quantas pessoas possuem pelo menos um das palavras chaves necessárias no currículo que estejam dentro de um dos requisitos para as vagas. Para isso, o código Python vai checar quantos candidatos estão se inscrevendo, para qual vaga estão se inscrevendo, nome de cada candidato e o resumo do currículo que a pessoa está enviando.
+Desenvolvimento de um projeto (usando dicionários) com o objetivo de gravar a quantidade de currículos para duas vagas: Analista de dados e Cientista de dados. Visando verifcar quantas pessoas possuem pelo menos uma das palavras chaves no currículo, palavras chaves que são requisitos para vaga.  Para isso, o código Python vai checar quantos candidatos estão se inscrevendo, para qual vaga estão se inscrevendo, nome de cada candidato e o resumo do currículo que a pessoa está enviando.
 
 ### 🚀 <strong>Tecnologias</strong>
 
@@ -12,7 +12,7 @@ Desenvolvimento de um projeto (usando dicionários) com o objetivo de gravar a q
 ### 🔎 <strong>Como acessar</strong>
 
 
-Primeiramente deve-se clonar o repositório para sua máquina, com o seguinte comando no Git: https://github.com/MarianaLobao/Contratado-Projeto-Resilia-.git
+Primeiramente deve-se clonar o repositório para sua máquina, com o seguinte comando no Git: 
 
 ```shell
 git clone  
