@@ -12,7 +12,7 @@ Desenvolvimento de um projeto (usando dicionários) com o objetivo de gravar a q
 ### 🔎 <strong>Como acessar</strong>
 
 
-Primeiramente deve-se clonar o repositório para sua máquina, com o seguinte comando no Git: 
+Primeiramente deve-se clonar o repositório para sua máquina, com o seguinte comando no Git: https://github.com/MarianaLobao/Contratado-Projeto-Resilia.git
 
 ```shell
 git clone  
