@@ -28,6 +28,6 @@ Fique à vontade para testá-lo! Adoraria receber o seu feedback!
 ### :gear: <strong>Como executar</strong>
 
 
-1º Inicie o arquivo '#TODO4' com uma IDE de sua preferência; <br/>
+1º Inicie o arquivo 'TODO4_3' com uma IDE de sua preferência; <br/>
 2º Execute o arquivo, para isso procure pelo comando 'run python file' ou similar; <br/>
 3º A partir do terminal, interaja com o programa contratado.
